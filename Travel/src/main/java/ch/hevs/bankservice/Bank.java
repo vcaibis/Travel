@@ -1,5 +1,5 @@
 package ch.hevs.bankservice;
-//test xavier
+//test xaviersds
 import java.util.List;
 
 import javax.ejb.Local;
