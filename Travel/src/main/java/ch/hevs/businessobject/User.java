@@ -26,7 +26,12 @@ public class User {
 	@Embedded
 	private Address address;
 
-	
+	public Address getAddress() {
+		return address;
+	}
+	public void setAddress(Address address) {
+		this.address = address;
+		
 	// constructors
 	public User() {
 	}
