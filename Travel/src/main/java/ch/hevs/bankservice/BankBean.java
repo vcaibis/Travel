@@ -1,5 +1,5 @@
 package ch.hevs.bankservice;
-
+//test
 import java.util.List;
 
 import javax.ejb.Stateful;
